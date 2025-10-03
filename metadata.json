@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Caption Generator",
+  "description": "Upload an image and let the AI generate a descriptive caption for it. This tool uses advanced multimodal AI to understand the contents of your picture and describe it in natural language.",
+  "requestFramePermissions": []
+}
